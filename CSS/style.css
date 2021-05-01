@@ -91,6 +91,7 @@ h2 {
     font-size: 1.5rem;
     padding: 0.5em 1.3em;
     border-radius: 1em;
+    outline : none;
 }
 
 .random {
